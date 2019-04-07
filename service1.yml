@@ -1,0 +1,12 @@
+name: bhanu
+
+---
+
+spring:
+  profiles: dev
+name: bhanudev
+
+---
+spring:
+  profiles: qa
+name: bhanuqa
